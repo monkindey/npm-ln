@@ -5,6 +5,7 @@
   "bin": {
     "npm-ln": "./index.js"
   },
+  "keywords": ["npm", "ln"],
   "description": "npm install modules 实现软链接",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
